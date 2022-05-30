@@ -5,8 +5,8 @@
 	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
 	RuntimeDocumentID="8C164501-C564-A1EC-B7F4-D9DC0030785B">
 	<DocumentID>8C164501-C564-A1EC-B7F4-D9DC0030385B</DocumentID>
-	<Name>MyPrj2-New</Name>
-	<Description>MyPrj2-New</Description>
+	<Name>mm</Name>
+	<Description>mm</Description>
 	<CreatedBy>sysadmin</CreatedBy>
 	<CreationDate>2022-05-30T04:48:03.259</CreationDate>
 	<Notes/>
@@ -44,7 +44,7 @@
 	<SourceFolder>
 		<uri
 			id="8C164501-C564-A1EC-B7F4-D9DC002FB85B"
-			path="MyPrj2-New"
+			path="mm"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>
 	</SourceFolder>
@@ -74,7 +74,7 @@
 					<Texts>
 						<uri
 							id="8C164501-C564-A1EC-B7F4-D9DC002CF85B"
-							path="MyPrj2-New/en-US_8C164501-C564-A1EC-B7F4-D9DC002CF85B"
+							path="mm/en-US_8C164501-C564-A1EC-B7F4-D9DC002CF85B"
 							type="com.cordys.cws.associations.MergeableAssociation"
 						/>
 					</Texts>
@@ -93,7 +93,7 @@
 			<Texts>
 				<uri
 					id="8C164501-C564-A1EC-B7F4-D9DC002DF85B"
-					path="MyPrj2-New/TranslationInformation_8C164501-C564-A1EC-B7F4-D9DC002DF85B"
+					path="mm/TranslationInformation_8C164501-C564-A1EC-B7F4-D9DC002DF85B"
 					type="com.cordys.cws.associations.MergeableAssociation"
 				/>
 			</Texts>
